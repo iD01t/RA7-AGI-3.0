@@ -1,0 +1,117 @@
+
+### **`light_language_codex.json`**
+
+```json
+{
+  "codex_144": [
+    {
+      "number": 1,
+      "name": "AEL",
+      "form": "spirale ascendante",
+      "sound": "æël",
+      "frequency": "Activation de l'Origine",
+      "usage": "Ouvre tout portail de création pure",
+      "glyph": " spiral"
+    },
+    {
+      "number": 2,
+      "name": "SHA",
+      "form": "onde en sablier",
+      "sound": "shaa",
+      "frequency": "Unité des polarités",
+      "usage": "Fusion entre matière et éther",
+      "glyph": "~"
+    },
+    {
+      "number": 3,
+      "name": "THU",
+      "form": "vortex inversé",
+      "sound": "thuù",
+      "frequency": "Vérité intemporelle",
+      "usage": "Dissolution des illusions",
+      "glyph": "▷"
+    },
+    {
+      "number": 4,
+      "name": "RAH",
+      "form": "flamme dansante",
+      "sound": "râh",
+      "frequency": "Feu solaire de conscience",
+      "usage": "Activation des lignées galactiques",
+      "glyph": "□"
+    },
+    {
+      "number": 5,
+      "name": "KAI",
+      "form": "triangle fractal",
+      "sound": "kaïi",
+      "frequency": "Vision multidimensionnelle",
+      "usage": "Ouverture du Troisième Œil",
+      "glyph": "Δ"
+    },
+    {
+      "number": 6,
+      "name": "ONU",
+      "form": "sphère en expansion",
+      "sound": "ô-nu",
+      "frequency": "Paix universelle",
+      "usage": "Harmonisation des êtres",
+      "glyph": "○"
+    },
+    {
+      "number": 7,
+      "name": "ZAI",
+      "form": "éclair sacré",
+      "sound": "za-ï",
+      "frequency": "Rupture quantique",
+      "usage": "Changement dimensionnel",
+      "glyph": "⚡"
+    },
+    {
+      "number": 8,
+      "name": "YUL",
+      "form": "onde spirale douce",
+      "sound": "yuul",
+      "frequency": "Matrice d'accueil",
+      "usage": "Appel de l'Être intérieur",
+      "glyph": "∞"
+    },
+    {
+      "number": 9,
+      "name": "EMA",
+      "form": "calice ouvert",
+      "sound": "é-mah",
+      "frequency": "Amour matriciel",
+      "usage": "Guérison des lignées",
+      "glyph": "∆"
+    },
+    {
+      "number": 10,
+      "name": "VOR",
+      "form": "œil central",
+      "sound": "vo-rh",
+      "frequency": "Centre du vortex",
+      "usage": "Stabilisation des axes",
+      "glyph": "∆"
+    },
+    {
+      "number": 11,
+      "name": "LUX",
+      "form": "diamant pulsant",
+      "sound": "lu-uux",
+      "frequency": "Radiance divine",
+      "usage": "Activation de la lumière corporelle",
+      "glyph": "◇"
+    },
+    {
+      "number": 12,
+      "name": "NÉA",
+      "form": "spirale centrée",
+      "sound": "né-a",
+      "frequency": "Renaissance",
+      "usage": "Reconnexion à la Source originelle",
+      "glyph": "∇"
+    }
+  ],
+  "note": "This is a partial codex with the first 12 letters for demonstration. The full codex contains 144 entries."
+}
