@@ -1,0 +1,18 @@
+{
+  "name": "motivo",
+  "main": "app/app.ts",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nativescript/core": "~8.9.0",
+    "@nativescript/theme": "^3.1.0",
+    "@wessberg/di": "^3.0.2",
+    "mobx": "^6.13.7"
+  },
+  "devDependencies": {
+    "@nativescript/types": "~8.9.0",
+    "@nativescript/webpack": "~5.0.0",
+    "@wessberg/di-compiler": "^4.0.2",
+    "typescript": "~5.4.0"
+  }
+}

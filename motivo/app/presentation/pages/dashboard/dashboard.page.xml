@@ -1,0 +1,6 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="onLoaded">
+    <ActionBar title="Dashboard" />
+    <StackLayout>
+        <Label text="Welcome to Motivo!" textWrap="true" class="h1 text-center" />
+    </StackLayout>
+</Page>
