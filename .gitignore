@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+pytest_cache/
+app_key.bin
+*.enc
+
+app_icon.png
